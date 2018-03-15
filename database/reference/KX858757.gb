@@ -1,0 +1,83 @@
+LOCUS       KX858757                1725 bp    cRNA    linear   VRL 02-NOV-2016
+DEFINITION  Human respiratory syncytial virus A isolate 13-005275 fusion
+            protein (F) gene, complete cds.
+ACCESSION   KX858757
+VERSION     KX858757.1
+KEYWORDS    .
+SOURCE      Human respiratory syncytial virus A
+  ORGANISM  Human respiratory syncytial virus A
+            Viruses; ssRNA viruses; ssRNA negative-strand viruses;
+            Mononegavirales; Pneumoviridae; Orthopneumovirus.
+REFERENCE   1  (bases 1 to 1725)
+  AUTHORS   Coenjaerts,F.E.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (15-SEP-2016) Sub-department of Virology, Department of
+            Medical Microbiology, UMC, Utrecht, Netherlands
+REFERENCE   2  (bases 1 to 1725)
+  AUTHORS   Moldt,B.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (15-SEP-2016) MedImmune, 1 Medimmune Way, Gaithersburg,
+            MD 20878, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1725
+                     /organism="Human respiratory syncytial virus A"
+                     /mol_type="viral cRNA"
+                     /isolate="13-005275"
+                     /host="Homo sapiens"
+                     /db_xref="taxon:208893"
+                     /country="Netherlands: Utrecht"
+                     /collection_date="07-Feb-2013"
+                     /note="subtype: A"
+     gene            1..1725
+                     /gene="F"
+     CDS             1..1725
+                     /gene="F"
+                     /codon_start=1
+                     /product="fusion protein"
+                     /protein_id="AOZ56961.1"
+                     /translation="MELPILKTNAITTILAAVTLCFASSQNITEEFYQSTCSAVSKGY
+                     LSALRTGWYTSVITIELSNIKENKCNGTDAKVKLIKQELDKYKNAVTELQLLMQSTPA
+                     ANSRARRELPRFMNYTLNNTKNTNVTLSKKRKRRFLGFLLGVGSAIASGIAVSKVLHL
+                     EGEVNKIKSALLSTNKAVVSLSNGVSVLTSKVLDLKNYIDKQLLPIVNKQSCSISNIE
+                     TVIEFQQKNNRLLEITREFSVNAGVTTPVSTYMLTNSELLSLINDMPITNDQKKLMSS
+                     NVQIVRQQSYSIMSIIKEEVLAYVVQLPLYGVIDTPCWKLHTSPLCTTNTKEGSNICL
+                     TRTDRGWYCDNAGSVSFFPQAETCKVQSNRVFCDTMNSLTLPSEVNLCNIDIFNPKYD
+                     CKIMTSKTDVSSSVITSLGAIVSCYGKTKCTASNKNRGIIKTFSNGCDYVSNKGVDTV
+                     SVGNTLYYVNKQEGKSLYVKGEPIINFYDPLVFPSDEFDASISQVNEKINQSLAFIRK
+                     SDELLHNVNAGKSTTNIMITTIIIVIIVILLALIAVGLLLYCKARSTPVTLSKDQLSG
+                     INNIAFSN"
+ORIGIN      
+        1 atggagttgc caatcctcaa aacaaatgct attaccacaa tccttgctgc agtcacactc
+       61 tgtttcgctt ccagtcaaaa catcactgaa gaattttatc aatcaacatg cagtgcagtt
+      121 agcaaaggct atcttagtgc tctaagaact ggttggtata ctagtgttat aactatagaa
+      181 ttaagtaata tcaaggaaaa taagtgtaat ggtacagacg ctaaggtaaa attaataaaa
+      241 caagaattag ataaatataa aaatgctgta acagaattgc agttgctcat gcaaagcaca
+      301 ccagcagcca acagtcgagc cagaagagaa ctaccaagat ttatgaatta tacactcaac
+      361 aataccaaaa acaccaatgt aacattaagt aagaaaagga aaagaagatt tcttggattt
+      421 ttgttaggtg ttggatctgc aatcgccagt ggcattgccg tatccaaggt cctgcaccta
+      481 gaaggggaag tgaacaaaat caaaagtgct ctactatcca caaacaaggc tgtagtcagc
+      541 ttatctaatg gagtcagtgt cttaaccagc aaggtgttag acctcaaaaa ctatatagat
+      601 aaacagttgt tacctattgt taacaagcaa agctgcagca tatcaaacat tgaaactgtg
+      661 atagagttcc aacaaaagaa caacagacta ctagagatta ccagagaatt tagtgttaat
+      721 gcaggtgtaa ctacacctgt aagcacttat atgttaacta atagtgagtt attatcatta
+      781 atcaatgata tgcctataac aaatgatcag aaaaagttaa tgtccagcaa tgttcaaata
+      841 gttagacagc aaagttactc tatcatgtca ataataaaag aggaagtctt agcatatgta
+      901 gtacaattac cactatatgg tgtaatagat actccttgtt ggaaactaca cacatcccct
+      961 ctatgtacaa ccaacacaaa ggaaggatcc aacatctgct tgacaagaac cgacagagga
+     1021 tggtactgtg acaatgcagg atcagtatcc tttttcccac aagctgaaac atgtaaagtt
+     1081 caatcgaatc gggtgttttg tgacacaatg aacagtttaa cattaccaag tgaggtaaat
+     1141 ctctgcaaca ttgacatatt caaccccaaa tatgattgca aaattatgac ttcaaaaaca
+     1201 gatgtaagca gctccgttat cacatctcta ggagccattg tgtcatgcta tggcaaaacc
+     1261 aaatgtacag catccaataa aaatcgtggg atcataaaga cattctctaa cgggtgtgat
+     1321 tatgtatcaa ataagggggt ggatactgtg tctgtaggta atacattata ttatgtaaat
+     1381 aagcaagaag gcaaaagtct ctatgtaaaa ggtgaaccaa taataaattt ctatgatcca
+     1441 ttagtgttcc cctctgatga atttgatgca tcaatatctc aagtcaatga gaaaattaat
+     1501 cagagtctag catttatccg taaatcagat gaattattac ataatgtaaa tgctggtaaa
+     1561 tccaccacaa atatcatgat aactaccata attatagtaa ttatagtaat attgttagca
+     1621 ttaattgcag ttggactgct tctatactgc aaggccagaa gcacaccagt cacattaagt
+     1681 aaggatcaac tgagtggtat aaataatatt gcatttagta actga
+//
+

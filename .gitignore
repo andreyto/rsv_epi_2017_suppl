@@ -1,0 +1,11 @@
+build
+build/*
+*.[oa]
+*.so
+*~
+*.pyc
+*.pyo
+*.swp
+.DS_Store
+.Rproj.user
+.Rhistory

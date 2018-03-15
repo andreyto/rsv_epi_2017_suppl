@@ -1,0 +1,27 @@
+{
+    "accepted": {
+        "count": 100, 
+        "fields": {
+            "extraction_QC": {
+                "descr": "Quality control status of extraction procedure", 
+                "value": "extraction_QC"
+            }, 
+            "label": {
+                "descr": "Parsed label", 
+                "value": "parsed_label"
+            }, 
+            "label_method": {
+                "descr": "Method by which label was assigned", 
+                "value": "method_label"
+            }
+        }, 
+        "meta_file": "rsv_genomes.accepted.txt", 
+        "seq_file": "rsv_genomes.accepted.fasta"
+    }, 
+    "rejected": {
+        "gb_file": "rsv_genomes.rejected.gb", 
+        "reason": {
+            "NoGene": 16
+        }
+    }
+}
